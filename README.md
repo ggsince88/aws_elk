@@ -68,5 +68,5 @@ Format of databag ['passwords']['kibana']['nginx_pw']
 
 ## License and Authors
 
-Authors: Galo Andrade (gandrade@eastridge.com)
+Authors: Galo
 
